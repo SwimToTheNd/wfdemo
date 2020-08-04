@@ -1,0 +1,5 @@
+dependencies {
+    compile group: 'mysql', name: 'mysql-connector-java', version: '5.1.47'
+    compile group: 'org.camunda.bpm.springboot', name: 'camunda-bpm-spring-boot-starter', version: '2.3.0'
+
+}
